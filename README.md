@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hello everyone! My name is Yahg0h. I am a college student taking a course in systems analysis and development to become a developer.
+👋 Hello everyone! My name is Yahg0h. I am a college student pursuing a degree as a technologist in Systems Analysis and Development to become a developer.
 I have an interest in back-end and coding and I'm constantly looking to improve in this area.
 
 🔧 Here's all the tools I know how to use! (at a medium to intermediate level, I'm still solidifying my knowledge of them😁)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,py,html,css,js,sqlite,flask,git,github)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,py,html,js,sqlite,flask,git,github)](https://skillicons.dev)
 
 📖 Here is a list of tools that I am learning or planning to learn in the next 6 months (as of June 13, 2026):
 
