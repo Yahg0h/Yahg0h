@@ -1,4 +1,4 @@
-## Hi there 😃
+## Olá! 😃
 
 <!--
 **Yahg0h/Yahg0h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hello everyone! My name is Yahg0h. I am a college student pursuing a degree as a technologist in Systems Analysis and Development to become a developer.
+👋 Hello everyone! My name is Yahg0h. I am a college student from Brazil pursuing a degree as a technologist in Systems Analysis and Development to become a developer.
 I have an interest in back-end and coding and I'm constantly looking to improve in this area.
 
 🔧 Here's all the tools I know how to use! (at a beginner to intermediate level, I'm still solidifying my knowledge of them😁)
